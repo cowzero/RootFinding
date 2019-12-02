@@ -1,1 +1,2 @@
-# RootFinding
+# RootFinding;
+수치해석에서 사용되는 근을 찾는 여러가지 방법들의 매트랩코드입니다.
